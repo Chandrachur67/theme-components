@@ -1,0 +1,20 @@
+
+
+.footer-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.footer-item {
+    display: flex; 
+    align-items: center;
+}
+
+.image img {
+    padding: 10px 25px;
+}
+
+.text h3, p {
+    margin: 5px;
+}
